@@ -1,0 +1,20 @@
+.header {
+  background: #0b1c2d;
+  padding: 20px 0;
+}
+
+.logo {
+  height: 48px;
+}
+
+.nav a {
+  color: #fff;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.card {
+  background: #fff;
+  padding: 30px;
+  border-radius: 16px;
+}
